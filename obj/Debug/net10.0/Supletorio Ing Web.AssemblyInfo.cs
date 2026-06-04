@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Supletorio Ing Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5ed71dd4e504a9286f4ebbe4cbf357da21f7bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9261990a09954fd9d7bda646c397fcaff50bef08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Supletorio Ing Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Supletorio Ing Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
