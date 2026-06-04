@@ -1,0 +1,6 @@
+@Supletorio_Ing_Web_HostAddress = http://localhost:5279
+
+GET {{Supletorio_Ing_Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
