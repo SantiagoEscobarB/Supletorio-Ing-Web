@@ -25,7 +25,7 @@ namespace Supletorio_Ing_Web.Service
                 Stock = dto.Stock,
                 Descuento = dto.Descuento
             };
-            producto.PrecioFinal = producto.Precio * ( 1 - producto.Descuento); //Si el descuento es 30%, es porque el precio es del 70% (1 - 30% = 70%) del precio inicial
+            producto.PrecioFinal = producto.Precio * ( 1 - producto.Descuento); //Si el descuento es 30%, es porque el precio es del 70% (1 - 0.3 = 0.7) del precio inicial
             _context.Productos.Add(producto);
             await _context.SaveChangesAsync();
             return producto;
